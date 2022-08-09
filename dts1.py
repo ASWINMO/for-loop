@@ -1,0 +1,11 @@
+str="One Two Three Four Five Six Seven Eight Nine Ten"
+print(str[0:3])
+print(str[4:7])
+print(str[8:13])
+print(str[14:18])
+print(str[19:23])
+print(str[24:27])
+print(str[28:33])
+print(str[34:39])
+print(str[40:44])
+print(str[45:49])

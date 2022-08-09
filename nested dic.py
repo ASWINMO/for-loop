@@ -1,0 +1,21 @@
+nested_dictionary={
+    "one":
+     {
+    "name":"aswin",
+     "age":30,
+            "city":"New York"
+},
+    "two":
+{
+    "name":"fasim",
+    "age":78,
+    "city":"paris"
+},
+    "three":
+{
+    "name":"bob",
+    "age":20,
+    "city":"london"
+}
+}
+print(nested_dictionary["three"]["age"])
